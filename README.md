@@ -1,7 +1,5 @@
 # Go Training
 
-smbnf dv
-
 [![Build Status](https://travis-ci.com/anz-bank/go-training.svg?branch=master)](https://travis-ci.com/anz-bank/go-training)
 [![Coverage](https://codecov.io/gh/anz-bank/go-training/branch/master/graph/badge.svg)](https://codecov.io/gh/anz-bank/go-training)
 [![GolangCI](https://golangci.com/badges/github.com/anz-bank/go-training.svg)](https://golangci.com/r/github.com/anz-bank/go-training)
